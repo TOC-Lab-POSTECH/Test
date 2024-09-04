@@ -10,3 +10,8 @@ int main()
     node.setData(1);
     node.printData();
 }
+<<<<<<< Updated upstream
+=======
+
+// Song Chanho 2
+>>>>>>> Stashed changes
