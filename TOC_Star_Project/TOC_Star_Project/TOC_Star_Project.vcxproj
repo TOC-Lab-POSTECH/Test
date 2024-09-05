@@ -176,6 +176,7 @@ copy $(ProjectDir)*.h $(SolutionDir)lib\header\.</Command>
     <ClInclude Include="First Init Test.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="SecondTest.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="First Init Test.cpp" />
@@ -185,6 +186,7 @@ copy $(ProjectDir)*.h $(SolutionDir)lib\header\.</Command>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="SecondTest.cpp" />
     <ClCompile Include="TOC_Star_Project.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
