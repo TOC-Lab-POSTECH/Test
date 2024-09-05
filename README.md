@@ -20,7 +20,7 @@ If you are not familiar with GitHub Desktop, see [this recommended link](https:/
 > And, NEVER change anything about the settings of projects or solutions.
 > Furthermore, please do NOT change the existing files including `Test Console.cpp` in `Test Console` project. The source file is a public testing file for testing settings.
 > If you want your own test file, add a source file to the `Test Console` project.
-> If you want to add codes to the library, you can add header and source files to the `TOC_Star_Project` project. You can test your own source file.
+> If you want to add codes to the library, you can add header and source files to the `TOC_Star_Project` project. You can test your own source file only in the way.
 
 > [!WARNING]
 > We use [CGAL](https://www.cgal.org/index.html) including [Boost Graph Library (BGL)](https://www.boost.org/doc/libs/1_75_0/libs/graph/doc/index.html) for implementation of graph algorithms and computational geometric algorithms.
