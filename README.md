@@ -20,12 +20,12 @@ If you are not familiar with GitHub Desktop, see [this recommended link](https:/
 > And, NEVER change anything about the settings of projects or solutions.
 > Furthermore, please do NOT change the existing files including `Test Console.cpp` in `Test Console` project. The source file is a public testing file for testing settings.
 > If you want your own test file, add a source file to the `Test Console` project.
-> If you want to add codes to the library, you can add header and source files to the `TOC_Star_Project` project. You can test your own source file only in the way.
+> If you want to add codes to the library, you can add header and source files to the `TOC_Star_Project` project. You can test your own source file only in this way.
 
 > [!WARNING]
 > We use [CGAL](https://www.cgal.org/index.html) including [Boost Graph Library (BGL)](https://www.boost.org/doc/libs/1_75_0/libs/graph/doc/index.html) for implementation of graph algorithms and computational geometric algorithms.
 > Thus, if you don't know about those libraries, refer [this link](https://www.boost.org/doc/libs/1_86_0/libs/graph/doc/table_of_contents.html) for BGL and [this link](https://doc.cgal.org/latest/Manual/general_intro.html) for CGAL.
-> Additionally, CGAL extends the BGL by introducing concepts such as HalfedgeGraph and Face Graph. You can see more details at [this link](https://doc.cgal.org/latest/BGL/index.html)
+> Additionally, CGAL extends the BGL by introducing concepts such as HalfedgeGraph and Face Graph. You can see more details at [this link](https://doc.cgal.org/latest/BGL/index.html).
 
 ---
 (1) First, clone this repository on your working directory, i.e., anywhere on your computer where you want to work.
