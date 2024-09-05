@@ -12,7 +12,7 @@ Note that you have to check `Desktop development with C++` (`C++를 사용한 �
 <img src = "https://github.com/user-attachments/assets/0a8c2aae-c816-4084-a600-8ff156339035" width="30%" height="30%">
 
 
-And, unless you are not familiar with GitHub, I recommend you install `GitHub Desktop` which is a GUI application of GitHub for Windows. You can install GitHub Desktop at [this link](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop).
+And, unless you are familiar with GitHub, I recommend you install `GitHub Desktop` which is a GUI application of GitHub for Windows. You can install GitHub Desktop at [this link](https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop).
 If you are not familiar with GitHub Desktop, see [this recommended link](https://velog.io/@wns450/Github-Desktop-%EC%82%AC%EC%9A%A9%EB%B2%95)(Korean) to get this repository on your computer.
 
 > [!CAUTION]  
