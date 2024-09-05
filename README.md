@@ -61,5 +61,5 @@ After that, you can see the change that `Test Console` becomes bold and `TOC_Sta
 
 (6) Run the project (click `F5`), and check the test console.
 
-<img src = "https://github.com/user-attachments/assets/814a7cc3-7dfc-49f8-b974-850174d6cd78" width="50%" height="50%">
+<img src = "https://github.com/user-attachments/assets/814a7cc3-7dfc-49f8-b974-850174d6cd78" width="70%" height="70%">
 
