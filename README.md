@@ -31,6 +31,9 @@ If you are not familiar with GitHub Desktop, see [this recommended link](https:/
 (1) First, clone this repository on your working directory, i.e., anywhere on your computer where you want to work.
 If you didn't set the directory where this repository is installed, then the default position may be `C:\Users\USER\Documents\GitHub` (`내 PC\문서\GitHub`).
 
+>[!Warning]
+>Notice that if you are not a manager then you have to fork this repository.
+
 ---
 
 (2) Open the solution file named `TOC_Star_Project.sln` in the main directory.
