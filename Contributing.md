@@ -40,7 +40,7 @@ The writing rule for a pull request is free. However, you have to write a pull r
 For managers, when you accept a pull request, you will create a new commit for merging the branch. Please DO NOT change the title of such a commit message, because the title will be automatically created and the title includes the link to the corresponding pull request. By the rules above, you will remove the branch after merging.
 
 ---
-# WorkflowSummary
+# Workflow Summary
 Here, we describe the workflow.
 
 |No|Manager|Worker|
