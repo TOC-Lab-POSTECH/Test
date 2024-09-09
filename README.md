@@ -18,8 +18,9 @@ If you are not familiar with GitHub Desktop, see [this recommended link](https:/
 > [!CAUTION]  
 > Please do NOTHING before following the guidelines below.
 > And, NEVER change anything about the settings of projects or solutions.
-> Furthermore, please do NOT change the existing files including `Test Console.cpp` in `Test Console` project. The source file is a public testing file for testing settings.
-> If you want your own test file, add a source file to the `Test Console` project.
+> Furthermore, please do NOT change the existing files.
+> If you want your own test, I recommend adding a source file to the `Test Console` project.
+> You can use `Test Consol.cpp` but it is only for public tests. If you update `Test Console.cpp`, it is okay.
 > If you want to add codes to the library, you can add header and source files to the `TOC_Star_Project` project. You can test your own source file only in this way.
 
 > [!WARNING]
