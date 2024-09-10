@@ -1,7 +1,7 @@
 # Development Rule
 |No|Name|
 |---|---|
-|1|[Develop](#Develop)]
+|1|[Develop](#Develop)|
 |2|[Commit](#Commit)|
 |3|[Branch and Pull request](#Branch-and-Pull-request)|
 |4|[Workflow Summary](#Workflow-Summary)|
