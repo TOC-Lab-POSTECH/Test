@@ -53,3 +53,4 @@ Here, we describe the workflow.
 |5||After completely developing the tasks, create a pull request|
 |6|Check and merge (, and remove branch)||
 |7|If your subject is done, merge to the `main` branch||
+|8|\[Only for the chef manager\] Refactoring all codes after a bundle of subjects is completely done.||
