@@ -13,6 +13,42 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Shinwoo An">
+      <UniqueIdentifier>{235c0328-e9fd-4453-a189-7d955d70013f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shinwoo An">
+      <UniqueIdentifier>{c285092c-3113-44b4-96b7-d13fe62c1b85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Kyungjin Cho">
+      <UniqueIdentifier>{844fd30f-fa3a-412d-98f7-ba28ad834ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Kyungjin Cho">
+      <UniqueIdentifier>{59d851a0-2f9a-4edf-8426-d0be52242753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Hyeonjun Shin">
+      <UniqueIdentifier>{9e976fdf-03cd-4689-869b-35175443f18a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hyeonjun Shin">
+      <UniqueIdentifier>{4d4d3f67-c558-4da6-8afc-31c1003612ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Donghun Shin">
+      <UniqueIdentifier>{a8d6693f-74e3-441c-9dfa-e7c75b14c6dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Donghun Shin">
+      <UniqueIdentifier>{a77dfea2-99b4-425b-b7cb-64ef216d58e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sungbin Park">
+      <UniqueIdentifier>{ce9b8743-ac06-48fe-8087-e9300341551c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sungbin Park">
+      <UniqueIdentifier>{3bc50c55-cd63-4f08-a8e0-0e76596ad5f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Seungheon Hyeon">
+      <UniqueIdentifier>{2e115bb2-86b8-408b-aced-25ca1d94d1c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Seungheon Hyeon">
+      <UniqueIdentifier>{cbafe987-d2d8-4843-a26f-f7e420a1e42d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
